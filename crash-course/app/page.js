@@ -1,3 +1,13 @@
+"use client";
+
+// localhost:3000/
+
+// Data fecthing in NextJs
+
+// 1. Server Side Rendering (SSR)
+// 2. Static Site Generation (SSG)
+// 3. Incremental Static Generation (ISR)
+
 import Image from 'next/image'
 
 export default function Home() {
